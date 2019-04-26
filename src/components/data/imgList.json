@@ -1,0 +1,27 @@
+{
+	"err_code": 0,
+	"message": [
+		{
+			"id":1,
+			"title":"古诗",
+			"zhaiyao":"啦啦啦",
+			"img_url":"src/images/cbd.jpg",
+			"cateId":"0"
+		},
+		{
+			"id":2,
+			"title":"能和心爱的人一起睡觉，是件幸福的事情；可是，打呼噜怎么办？",
+			"zhaiyao":"啦啦啦",
+			"img_url":"src/images/shuijiao.jpg",
+			"cateId":"2"
+		},
+		{
+			"id":3,
+			"title":"能和心爱的人一起睡觉，是件幸福的事情；可是，打呼噜怎么办？",
+			"zhaiyao":"啦啦啦",
+			"img_url":"src/images/yuantiao.jpg",
+			"cateId":"3"
+		}
+	],
+	"affectedRows": 0
+}

@@ -1,0 +1,19 @@
+{
+    "err_code": 0,
+    "message": [
+        {
+            "id":1,
+            "title":"特步男鞋",
+            "add_time":"2018-01-02 02:05:36",
+            "zhaiyao":"正在优惠大促销，赶紧来买呐",
+            "pageIndex":1,
+            "click":3,
+            "img_url":"src/images/tebuxie.jpg",
+            "sell_price":199,
+            "market_price":299,
+            "stock_quantity":60,
+            "goods_no":"DKD56564445"
+        }
+    ],
+    "affectedRows": 0
+}

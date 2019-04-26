@@ -1,0 +1,126 @@
+{
+    "err_code": 0,
+    "message": [
+        {
+            "id":1,
+            "title":"特步男鞋",
+            "add_time":"2018-01-02 02:05:36",
+            "zhaiyao":"正在优惠大促销，赶紧来买呐",
+            "pageIndex":1,
+            "click":3,
+            "img_url":"src/images/tebuxie.jpg",
+            "sell_price":199,
+            "market_price":299,
+            "stock_quantity":60
+        },
+        {
+            "id":2,
+            "title":"特步男鞋",
+            "add_time":"2018-01-02 02:05:36",
+            "zhaiyao":"特步男鞋运动鞋2019夏季新款情侣跑鞋网面透气休闲鞋子男女跑鞋",
+            "pageIndex":1,
+            "click":3,
+            "img_url":"src/images/tebuxie.jpg",
+            "sell_price":199,
+            "market_price":299,
+            "stock_quantity":60
+        },
+        {
+            "id":3,
+            "title":"特步男鞋",
+            "add_time":"2018-01-02 02:05:36",
+            "zhaiyao":"正在优惠大促销，赶紧来买呐",
+            "pageIndex":1,
+            "click":3,
+            "img_url":"src/images/tebuxie.jpg",
+            "sell_price":199,
+            "market_price":299,
+            "stock_quantity":60
+        },
+        {
+            "id":4,
+            "title":"特步男鞋",
+            "add_time":"2018-01-02 02:05:36",
+            "zhaiyao":"正在优惠大促销，赶紧来买呐",
+            "pageIndex":1,
+            "click":3,
+            "img_url":"src/images/tebuxie.jpg",
+            "sell_price":199,
+            "market_price":299,
+            "stock_quantity":60
+        },
+        {
+            "id":5,
+            "title":"特步男鞋",
+            "add_time":"2018-01-02 02:05:36",
+            "zhaiyao":"正在优惠大促销，赶紧来买呐",
+            "pageIndex":1,
+            "click":3,
+            "img_url":"src/images/tebuxie.jpg",
+            "sell_price":199,
+            "market_price":299,
+            "stock_quantity":60
+        },
+        {
+            "id":6,
+            "title":"特步男鞋",
+            "add_time":"2018-01-02 02:05:36",
+            "zhaiyao":"正在优惠大促销，赶紧来买呐",
+            "pageIndex":1,
+            "click":3,
+            "img_url":"src/images/tebuxie.jpg",
+            "sell_price":199,
+            "market_price":299,
+            "stock_quantity":60
+        },
+        {
+            "id":7,
+            "title":"特步男鞋",
+            "add_time":"2018-01-02 02:05:36",
+            "zhaiyao":"正在优惠大促销，赶紧来买呐",
+            "pageIndex":1,
+            "click":3,
+            "img_url":"src/images/tebuxie.jpg",
+            "sell_price":199,
+            "market_price":299,
+            "stock_quantity":60
+        },
+        {
+            "id":8,
+            "title":"特步男鞋",
+            "add_time":"2018-01-02 02:05:36",
+            "zhaiyao":"正在优惠大促销，赶紧来买呐",
+            "pageIndex":2,
+            "click":3,
+            "img_url":"src/images/tebuxie.jpg",
+            "sell_price":199,
+            "market_price":299,
+            "stock_quantity":60
+        },
+        {
+            "id":9,
+            "title":"特步男鞋",
+            "add_time":"2018-01-02 02:05:36",
+            "zhaiyao":"正在优惠大促销，赶紧来买呐",
+            "pageIndex":2,
+            "click":3,
+            "img_url":"src/images/tebuxie.jpg",
+            "sell_price":199,
+            "market_price":299,
+            "stock_quantity":60
+        },
+        {
+            "id":10,
+            "title":"特步男鞋",
+            "add_time":"2018-01-02 02:05:36",
+            "zhaiyao":"正在优惠大促销，赶紧来买呐",
+            "pageIndex":2,
+            "click":3,
+            "img_url":"src/images/tebuxie.jpg",
+            "sell_price":199,
+            "market_price":299,
+            "stock_quantity":60
+        }
+    ],
+    "affectedRows": 0
+}

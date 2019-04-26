@@ -1,0 +1,18 @@
+{
+    "err_code": 0,
+    "message": [
+        {
+            "id": 1,
+            "url": "src/images/b1.jpg"
+        },
+        {
+            "id": 2,
+            "url": "src/images/b2.jpg"
+        },
+        {
+            "id": 3,
+            "url": "src/images/b3.jpg"
+        }
+    ],
+    "affectedRows": 0
+}

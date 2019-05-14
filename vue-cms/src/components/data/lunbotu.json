@@ -1,0 +1,66 @@
+{
+    "err_code": 0,
+    "message": [
+        {
+            "id": 1,
+            "url": "src/images/b1.jpg",
+            "class":"0"
+        },
+        {
+            "id": 2,
+            "url": "src/images/b2.jpg",
+            "class":"0"
+        },
+        {
+            "id": 3,
+            "url": "src/images/b3.jpg",
+            "class":"0"
+        },
+         {
+            "id": 4,
+            "url": "src/images/hu1.webp",
+            "class":"1"
+        },
+        {
+            "id": 5,
+            "url": "src/images/hu2.webp",
+            "class":"1"
+        },
+        {
+            "id": 6,
+            "url": "src/images/hu3.webp",
+            "class":"1"
+        },
+        {
+            "id": 7,
+            "url": "src/images/panzi1.webp",
+            "class":"2"
+        },
+        {
+            "id": 8,
+            "url": "src/images/panzi2.webp",
+            "class":"2"
+        },
+        {
+            "id": 9,
+            "url": "src/images/panzi3.webp",
+            "class":"2"
+        },
+         {
+            "id": 10,
+            "url": "src/images/guizi1.webp",
+            "class":"3"
+        },
+        {
+            "id": 11,
+            "url": "src/images/guizi2.webp",
+            "class":"3"
+        },
+        {
+            "id": 12,
+            "url": "src/images/guizi3.webp",
+            "class":"3"
+        }
+    ],
+    "affectedRows": 0
+}

@@ -1,0 +1,36 @@
+{
+    "err_code": 0,
+    "message": [
+        {
+            "id":1,
+            "title":"HARIO日本原装进口手冲咖啡分享壶耐热玻璃手冲咖啡下壶XVD",
+            "add_time":"2018-01-02 02:05:36",
+            "zhaiyao":"HARIO日本原装进口手冲咖啡分享壶耐热玻璃手冲咖啡下壶XVD",
+            "sell_price":105,
+            "market_price":115,
+            "stock_quantity":99,
+            "goods_no":"DKD56564445"
+        },
+         {
+            "id":2,
+            "title":"日本1616arita有田烧柳原照弘菊皿花型陶瓷早餐碟甜品盘",
+            "add_time":"2018-03-06 12:05:36",
+            "zhaiyao":"日本1616arita有田烧柳原照弘菊皿花型陶瓷早餐碟甜品盘",
+            "sell_price":135,
+            "market_price":225,
+            "stock_quantity":60,
+            "goods_no":"DKD56564445"
+        },
+        {
+            "id":3,
+            "title":"斗柜客厅储物柜复古柜子藤编收纳柜阳台书柜美式田园十斗柜床头柜",
+            "add_time":"2018-03-06 12:05:36",
+            "zhaiyao":"斗柜客厅储物柜复古柜子藤编收纳柜阳台书柜美式田园十斗柜床头柜",
+            "sell_price":186,
+            "market_price":246,
+            "stock_quantity":77,
+            "goods_no":"DKD56564445"
+        }
+    ],
+    "affectedRows": 0
+}

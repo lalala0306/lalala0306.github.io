@@ -1,0 +1,66 @@
+ *{
+    margin: 0;
+    padding: 0;
+  }
+  .map {
+    width: 860px;
+    height: 800px;
+    margin: 0 auto;
+    /*background-color: #ccc;*/
+    position: relative;
+    top: 9%;
+  }
+  .content{
+    width: 973px;
+    height: 935px;
+    /*padding: 80px 70px 80px 60px;*/
+    background: url(images/beijing.png) 0 0 no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  .food{
+    background: url(images/pingguo.png) 0 0 no-repeat;
+    background-size: cover;
+  }
+  .header{
+    background: url(images/tou.png) 0 0 no-repeat;
+    background-size: cover;
+  }
+  .body{
+    background: url(images/shenti.png) 0 0 no-repeat;
+    background-size: cover;
+  }
+  .end{
+    width: 300px;
+    height: 100px;
+    background-color: pink;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -150px;
+    z-index: 2;
+    text-align: center;
+    padding: 10px;
+    display: none;
+  }
+  .start{
+    width: 300px;
+    height: 100px;
+    background-color: pink;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -150px;
+    z-index: 2;
+    text-align: center;
+    padding: 10px;
+    line-height: 100px;
+    cursor: pointer;
+    /*display: none;*/
+  }
+  .start h2,
+  #restart{
+    cursor: pointer;
+  }

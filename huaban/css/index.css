@@ -1,0 +1,44 @@
+*{
+	padding: 0;	
+	margin: 0;	
+	list-style: none;
+}
+body{
+	background: url(../images/kanna1_Moment.jpg) 0 0 no-repeat;
+}
+.wrapper{
+	margin: 15px;
+
+}
+.wrapper canvas{
+	border: 1px solid royalblue;
+	border-radius: 25px;
+	box-shadow: 10px 10px 5px #888888;
+	margin-bottom: 20px;
+
+}
+.wrapper .btn-list{
+	width: 1000px;	
+	text-align: center;
+}
+.wrapper .btn-list li {
+	display: inline-block;
+	margin-left: 40px;
+}
+.wrapper .btn-list li input {
+	background-color: yellow;
+	color: #000;
+	border: none;
+	padding: 10px 20px;
+	cursor: pointer;
+	border-radius: 25px;
+	display: block;
+	font-size: 16px;
+	transition-duration: 0.2s;
+}
+.wrapper .btn-list li input:hover{
+	border: 1px solid rebeccapurple;
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,.3)
+}
+
+

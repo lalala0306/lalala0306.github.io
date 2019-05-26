@@ -93,6 +93,10 @@ function myPhoto(){
 		$("#barrierBed").show();
 		$(".photo").show();
 	});
+	$("#zp").click(function(){
+		$("#barrierBed").show();
+		$(".photo").show();
+	});
 	$("#remove1").click(function(){
 		$("#barrierBed").hide();
 		$(".photo").hide();
